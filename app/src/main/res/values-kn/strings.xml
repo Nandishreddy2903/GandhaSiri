@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗಂಧಸಿರಿ</string>
+    <string name="choose_language">ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="continue_btn">ಮುಂದುವರಿಸಿ</string>
+    <string name="onboarding_title">ಗಂಧಸಿರಿಗೆ ಸ್ವಾಗತ</string>
+    <string name="register_title">ರೈತರ ನೋಂದಣಿ</string>
+    <string name="pin_login_title">ಭದ್ರತಾ ಪಿನ್ ನಮೂದಿಸಿ</string>
+    <string name="legal_guide_title">ಕರ್ನಾಟಕ ಶ್ರೀಗಂಧದ ಕಾನೂನು ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="legal_disclaimer_title">ಕಾನೂನು ಹಕ್ಕು ನಿರಾಕರಣೆ</string>
+    <string name="legal_disclaimer_text">ಈ ಮಾಹಿತಿಯು ಕರ್ನಾಟಕ ಅರಣ್ಯ ಕಾಯ್ದೆ 1963, ಕರ್ನಾಟಕ ಅರಣ್ಯ ತಿದ್ದುಪಡಿ ಕಾಯ್ದೆ 2001 ಮತ್ತು ಕರ್ನಾಟಕ ಅರಣ್ಯ ತಿದ್ದುಪಡಿ ನಿಯಮಗಳು 2022 ರ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದೆ. ಕಾನೂನುಗಳು ಬದಲಾಗಬಹುದು. ಯಾವುದೇ ಕ್ರಮ ಕೈಗೊಳ್ಳುವ ಮೊದಲು ಯಾವಾಗಲೂ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಜಿಲ್ಲಾ ಅರಣ್ಯ ಅಧಿಕಾರಿಯೊಂದಿಗೆ ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    
+    <!-- Legal Tabs -->
+    <string name="tab_before_planting">ನಾಟಿ ಮಾಡುವ ಮೊದಲು</string>
+    <string name="tab_growing_phase">ಬೆಳೆಯುವ ಹಂತ</string>
+    <string name="tab_harvest_process">ಕಟಾವು ಪ್ರಕ್ರಿಯೆ</string>
+    <string name="tab_selling_transport">ಮಾರಾಟ ಮತ್ತು ಸಾಗಾಣಿಕೆ</string>
+    
+    <!-- Before Planting -->
+    <string name="legal_q1_title">ಶ್ರೀಗಂಧ ಬೆಳೆಯುವುದು ಕಾನೂನುಬದ್ಧವೇ?</string>
+    <string name="legal_q1_content">ಹೌದು. ಕರ್ನಾಟಕ ಅರಣ್ಯ ತಿದ್ದುಪಡಿ ಕಾಯ್ದೆ 2001 ರ ನಂತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಖಾಸಗಿ ಭೂಮಿಯಲ್ಲಿ ಶ್ರೀಗಂಧ ಬೆಳೆಯುವುದು ಸಂಪೂರ್ಣವಾಗಿ ಕಾನೂನುಬದ್ಧವಾಗಿದೆ. ಮರಗಳನ್ನು ನೆಡಲು ನೀವು ಯಾವುದೇ ಅನುಮತಿಯ ಅಗತ್ಯವಿಲ್ಲ. ಆದರೆ ಕಟಾವು ಮಾಡಲು ಮತ್ತು ಮಾರಾಟ ಮಾಡಲು ಪ್ರತ್ಯೇಕ ಪರವಾನಗಿಗಳ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="legal_q2_title">ಭೂಮಿಯ ಅವಶ್ಯಕತೆಗಳು</string>
+    <string name="legal_q2_content">ನಿಮ್ಮ ಭೂಮಿಯು ಸ್ಪಷ್ಟ ಶೀರ್ಷಿಕೆಯೊಂದಿಗೆ ಖಾಸಗಿ ಒಡೆತನದ ಪಟ್ಟಾ ಭೂಮಿಯಾಗಿರಬೇಕು. ತಹಶೀಲ್ದಾರ್ ನೀಡಿದ ಮಾನ್ಯ ಭೂ ಮಾಲೀಕತ್ವದ ಪ್ರಮಾಣಪತ್ರವನ್ನು ನೀವು ಹೊಂದಿರಬೇಕು. ಸರ್ಕಾರಿ ಅಥವಾ ಅರಣ್ಯ ಇಲಾಖೆಯ ಭೂಮಿಯಲ್ಲಿ ಕೃಷಿ ಮಾಡಲು ಅನುಮತಿಯಿಲ್ಲ.</string>
+    <string name="legal_q3_title">ನಿಮ್ಮ ತೋಟವನ್ನು ನೋಂದಾಯಿಸಿ</string>
+    <string name="legal_q3_content">ನಾಟಿ ಮಾಡಿದ ನಂತರ ನೀವು ಪ್ರತಿ ಶ್ರೀಗಂಧದ ಮರವನ್ನು ನಿಮ್ಮ ಸ್ಥಳೀಯ ಜಿಲ್ಲಾ ಅರಣ್ಯ ಅಧಿಕಾರಿ ಅಥವಾ ವಿಭಾಗೀಯ ಅರಣ್ಯ ಅಧಿಕಾರಿಯ ಬಳಿ ನೋಂದಾಯಿಸಬೇಕು. ನಿಮ್ಮ ಭೂ ಮಾಲೀಕತ್ವದ ದಾಖಲೆಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಜಿಪಿಎಸ್ ಸ್ಥಳಗಳೊಂದಿಗೆ ಮರಗಳ ಪಟ್ಟಿಯನ್ನು ಕೊಂಡೊಯ್ಯಿರಿ. ನೋಂದಣಿ ಶುಲ್ಕ ಜಿಲ್ಲಾವಾರು ಬದಲಾಗುತ್ತದೆ. ನೋಂದಣಿ ರಶೀದಿಯನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸಿ - ಇದು ನಿಮ್ಮ ಕಾನೂನುಬದ್ಧ ಮಾಲೀಕತ್ವದ ಪುರಾವೆಯಾಗಿದೆ.</string>
+    <string name="legal_q4_title">ಲಭ್ಯವಿರುವ ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು</string>
+    <string name="legal_q4_content">ಕರ್ನಾಟಕವು ಸಿರಿಚಂದನ ವನ ಯೋಜನೆ ಮತ್ತು ಕೃಷಿ ಅರಣ್ಯ ಯೋಜನೆಯ ಮೂಲಕ ಉಚಿತ ಅಥವಾ ಸಬ್ಸಿಡಿ ದರದ ಶ್ರೀಗಂಧದ ಸಸಿಗಳನ್ನು ನೀಡುತ್ತದೆ. ಅರ್ಹತೆಗಾಗಿ ನಿಮ್ಮ ಸ್ಥಳೀಯ ತೋಟಗಾರಿಕೆ ಇಲಾಖೆಯ ಕಚೇರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ. ಕೃಷಿ ಬ್ಯಾಂಕುಗಳು ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಯೋಜನೆಗಳ ಅಡಿಯಲ್ಲಿ ಶ್ರೀಗಂಧದ ತೋಟಕ್ಕಾಗಿ ಕಡಿಮೆ ಬಡ್ಡಿದರದ ಸಾಲಗಳನ್ನು ನೀಡುತ್ತವೆ.</string>
+
+    <!-- Tree Detail & Tabs -->
+    <string name="tree_details">ಮರದ ವಿವರಗಳು</string>
+    <string name="back">ಹಿಂದಕ್ಕೆ</string>
+    <string name="options">ಆಯ್ಕೆಗಳು</string>
+    <string name="edit_age">ವಯಸ್ಸನ್ನು ತಿದ್ದುಪಡಿ ಮಾಡಿ</string>
+    <string name="delete_tree">ಮರವನ್ನು ಅಳಿಸಿ</string>
+    <string name="overview_tab">ಅವಲೋಕನ</string>
+    <string name="security_log_tab">ಭದ್ರತಾ ಲಾಗ್</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="edit_tree_age">ಮರದ ವಯಸ್ಸನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="age_years_label">ವಯಸ್ಸು (ವರ್ಷಗಳು)</string>
+    <string name="delete_tree_confirm">ಮರವನ್ನು ಅಳಿಸಬೇಕೆ?</string>
+    <string name="delete_tree_msg">ಈ ಮರದ ದಾಖಲೆಯನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿದ್ದೀರಾ? ಈ ಕ್ರಮವನ್ನು ಹಿಂಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    
+    <!-- Tree Stats & AI -->
+    <string name="current_age">ಪ್ರಸ್ತುತ ವಯಸ್ಸು</string>
+    <string name="planted">ನೆಡಲಾಗಿದೆ</string>
+    <string name="view_on_map">ನಕ್ಷೆಯಲ್ಲಿ ನೋಡಿ</string>
+    <string name="growth_journey">ಬೆಳವಣಿಗೆಯ ಹಾದಿ</string>
+    <string name="regenerate">ಮರುಉತ್ಪಾದಿಸಿ</string>
+    <string name="ai_estimate_title">AI ಕಟಾವು ಅಂದಾಜು</string>
+    <string name="get_ai_estimate">AI ಅಂದಾಜು ಪಡೆಯಿರಿ</string>
+    <string name="add_measurement">ಅಳತೆಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="years_ago">ವರ್ಷಗಳ ಹಿಂದೆ</string>
+    <string name="loading_ai">ಅಂದಾಜನ್ನು ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತಿದೆ...</string>
+    <string name="ai_error">AI ದೋಷ. ನಂತರ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="sandalwood_specimen">ಶ್ರೀಗಂಧದ ಮಾದರಿ</string>
+    <string name="health_overview">ಆರೋಗ್ಯದ ಅವಲೋಕನ</string>
+    <string name="gps_location">GPS ಸ್ಥಳ</string>
+    <string name="view_on_map_btn">ನಕ್ಷೆಯಲ್ಲಿ ನೋಡಿ</string>
+    <string name="generating">ರಚಿಸಲಾಗುತ್ತಿದೆ...</string>
+
+    <!-- Security Tab -->
+    <string name="security_checklist_title">ಭದ್ರತಾ ಪರಿಶೀಲನಾ ಪಟ್ಟಿ</string>
+    <string name="security_progress">ಭದ್ರತಾ ಪ್ರಗತಿ</string>
+    <string name="panic_button">ಪ್ಯಾನಿಕ್ ಬಟನ್</string>
+    <string name="panic_button_desc">ನೆರೆಹೊರೆಯವರು ಮತ್ತು ಅಧಿಕಾರಿಗಳನ್ನು ಎಚ್ಚರಿಸಿ</string>
+    <string name="emergency_contact">ತುರ್ತು ಸಂಪರ್ಕ</string>
+    <string name="contact_number_label">ಸಂಪರ್ಕ ಸಂಖ್ಯೆ (WhatsApp/Call)</string>
+    <string name="save_contact">ಸಂಪರ್ಕವನ್ನು ಉಳಿಸಿ</string>
+    <string name="contact_saved_toast">ತುರ್ತು ಸಂಪರ್ಕವನ್ನು ಉಳಿಸಲಾಗಿದೆ!</string>
+    <string name="panic_alert_title">ಭದ್ರತಾ ಪ್ಯಾನಿಕ್ ಎಚ್ಚರಿಕೆ!</string>
+    <string name="panic_alert_msg">ಇದು ನಿಮ್ಮ ಉಳಿಸಿದ ಸಂಪರ್ಕಕ್ಕೆ ತುರ್ತು SMS/WhatsApp ಸಂದೇಶವನ್ನು ಕಳುಹಿಸುತ್ತದೆ ಮತ್ತು ಸ್ಥಳೀಯವಾಗಿ ಎಚ್ಚರಿಕೆ ಧ್ವನಿ ನೀಡುತ್ತದೆ. ಮುಂದುವರಿಯಬೇಕೆ?</string>
+    <string name="send_alert">ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಿ</string>
+    <string name="checklist_item_1">ಸುತ್ತಲೂ ಬೇಲಿ ಹಾಕಲಾಗಿದೆ</string>
+    <string name="checklist_item_2">ಮೋಷನ್-ಸೆನ್ಸರ್ ಲೈಟ್‌ಗಳನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ</string>
+    <string name="checklist_item_3">ತೋಟದ ಗೇಟ್ ಲಾಕ್ ಆಗಿದೆ</string>
+    <string name="checklist_item_4">ನೆರೆಹೊರೆಯವರ ತುರ್ತು ಸಂಪರ್ಕವನ್ನು ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="checklist_item_5">ಅರಣ್ಯ ಇಲಾಖೆಯಲ್ಲಿ ಮರಗಳನ್ನು ನೋಂದಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="emergency_alert_title">ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="panic_button_label">ಅನುಮಾನಾಸ್ಪದ ಚಟುವಟಿಕೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="gps_ready">GPS ಸಿದ್ಧವಾಗಿದೆ</string>
+    <string name="acquiring_gps">GPS ಪಡೆಯಲಾಗುತ್ತಿದೆ...</string>
+    <string name="gps_not_available_warning">⚠ GPS ಲಭ್ಯವಿಲ್ಲ. ಸೆಟ್ಟಿಂಗ್‌ಗಳು → ಸ್ಥಳಕ್ಕೆ ಹೋಗಿ ಮತ್ತು "High Accuracy" ಮೋಡ್ ಆನ್ ಆಗಿದೆಯೇ ಮತ್ತು ಗಂಧಸಿರಿಗೆ ಸ್ಥಳದ ಪ್ರವೇಶವಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="open">ತೆರೆಯಿರಿ</string>
+    <string name="emergency_alert_desc">ನಿಮ್ಮ ಉಳಿಸಿದ ಸಂಪರ್ಕಕ್ಕೆ WhatsApp ಮೂಲಕ ತಕ್ಷಣ ತಿಳಿಸಿ ಮತ್ತು ಭದ್ರತಾ ಎಚ್ಚರಿಕೆಯನ್ನು ದಾಖಲಿಸಿ.</string>
+
+    <!-- Main Screens -->
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="add_tree">ಮರವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="no_trees_yet">ಇನ್ನೂ ಯಾವುದೇ ಮರಗಳಿಲ್ಲವೇ? ನಿಮ್ಮ ಶ್ರೀಗಂಧದ ಕೃಷಿ ಪ್ರಯಾಣವನ್ನು ಪ್ರಾರಂಭಿಸಲು + ಒತ್ತಿರಿ.</string>
+    <string name="tree_id_label">ಮರದ ID</string>
+    <string name="last_updated">ಕೊನೆಯದಾಗಿ ನವೀಕರಿಸಿದ್ದು</string>
+    <string name="view_details">ವಿವರಗಳನ್ನು ನೋಡಿ</string>
+    <string name="girth_label">ಸುತ್ತಳತೆ</string>
+    <string name="age_label">ವಯಸ್ಸು</string>
+    <string name="girth_age_format">ಸುತ್ತಳತೆ: %1$.1f cm | ವಯಸ್ಸು: %2$d ವರ್ಷಗಳು</string>
+
+    <!-- Add Tree -->
+    <string name="tree_registration">ಮರದ ನೋಂದಣಿ</string>
+    <string name="fetching_gps">GPS ಪಡೆಯಲಾಗುತ್ತಿದೆ...</string>
+    <string name="gps_failed_retry">GPS ವಿಫಲವಾಗಿದೆ (ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ)</string>
+    <string name="gps_coordinates">GPS ನಿರ್ದೇಶಾಂಕಗಳು</string>
+    <string name="girth_cm_label">ಸುತ್ತಳತೆ (ಸೆಂ.ಮೀ)</string>
+    <string name="age_years_label_hint">ವಯಸ್ಸು (ವರ್ಷಗಳು)</string>
+    <string name="save_tree">ಮರವನ್ನು ಉಳಿಸಿ</string>
+    <string name="saving">ಉಳಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="location_not_available">ಸ್ಥಳ ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು GPS ಆನ್ ಮಾಡಿ.</string>
+    <string name="retry_gps">GPS ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="estimated_age_label">ಅಂದಾಜು ವಯಸ್ಸು (ವರ್ಷಗಳಲ್ಲಿ)</string>
+    <string name="additional_notes_label">ಹೆಚ್ಚುವರಿ ಟಿಪ್ಪಣಿಗಳು</string>
+    <string name="save_tree_record">ಮರದ ದಾಖಲೆಯನ್ನು ಉಳಿಸಿ</string>
+    <string name="profile_title">ಪ್ರೊಫೈಲ್</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="farmer_details">ರೈತರ ವಿವರಗಳು</string>
+    <string name="village_label">ಗ್ರಾಮ</string>
+    <string name="district_label">ಜಿಲ್ಲೆ</string>
+    <string name="state_label">ರಾಜ್ಯ</string>
+    <string name="phone_label">ದೂರವಾಣಿ</string>
+    <string name="farm_size_label">ತೋಟದ ಗಾತ್ರ</string>
+    <string name="app_stats">ಅಪ್ಲಿಕೇಶನ್ ಅಂಕಿಅಂಶಗಳು</string>
+    <string name="total_trees_label">ಒಟ್ಟು ಮರಗಳು</string>
+    <string name="days_active_label">ಸಕ್ರಿಯ ದಿನಗಳು</string>
+    <string name="security_settings">ಭದ್ರತಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="change_pin">PIN ಬದಲಾಯಿಸಿ</string>
+    <string name="language_settings">ಭಾಷಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="change_language">ಭಾಷೆ ಬದಲಾಯಿಸಿ</string>
+    <string name="save_changes">ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ</string>
+    <string name="profile_updated">ಪ್ರೊಫೈಲ್ ನವೀಕರಿಸಲಾಗಿದೆ!</string>
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="personal_details">ವೈಯಕ್ತಿಕ ವಿವರಗಳು</string>
+    <string name="name_label">ಹೆಸರು</string>
+    <string name="farm_size_acres">ತೋಟದ ಗಾತ್ರ (ಎಕರೆ)</string>
+    <string name="not_set">ಹೊಂದಿಸಿಲ್ಲ</string>
+    <string name="enter_current_pin">ಪ್ರಸ್ತುತ PIN ನಮೂದಿಸಿ</string>
+    <string name="enter_new_pin">ಹೊಸ PIN ನಮೂದಿಸಿ</string>
+    <string name="confirm_new_pin">ಹೊಸ PIN ಖಚಿತಪಡಿಸಿ</string>
+    <string name="incorrect_pin">ತಪ್ಪು PIN</string>
+    <string name="pins_do_not_match">PINಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ</string>
+    <string name="acres_format">%1$s ಎಕರೆ</string>
+    <string name="registration_success">ನೋಂದಣಿ ಯಶಸ್ವಿಯಾಗಿದೆ!</string>
+    <string name="tree_recorded_msg">ನಿಮ್ಮ ಶ್ರೀಗಂಧದ ಮರದ ದಾಖಲೆಯನ್ನು ಉಳಿಸಲಾಗಿದೆ.</string>
+    <string name="tree_id_caps">ಮರದ ID</string>
+    <string name="return_to_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಹಿಂತಿರುಗಿ</string>
+</resources>

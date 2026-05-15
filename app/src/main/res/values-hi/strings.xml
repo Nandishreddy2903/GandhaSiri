@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">गंधसिरी</string>
+    <string name="choose_language">अपनी भाषा चुनें</string>
+    <string name="continue_btn">जारी रखें</string>
+    <string name="onboarding_title">गंधसिरी में आपका स्वागत है</string>
+    <string name="register_title">किसान पंजीकरण</string>
+    <string name="pin_login_title">सुरक्षा पिन दर्ज करें</string>
+    <string name="legal_guide_title">कर्नाटक चंदन कानूनी मार्गदर्शिका</string>
+    <string name="legal_disclaimer_title">कानूनी अस्वीकरण</string>
+    <string name="legal_disclaimer_text">यह जानकारी कर्नाटक वन अधिनियम 1963, कर्नाटक वन संशोधन अधिनियम 2001 और कर्नाटक वन संशोधन नियम 2022 पर आधारित है। कानून बदल सकते हैं। कोई भी कार्रवाई करने से पहले हमेशा अपने स्थानीय जिला वन अधिकारी के साथ वर्तमान नियमों का सत्यापन करें।</string>
+    
+    <!-- Legal Tabs -->
+    <string name="tab_before_planting">रोपण से पहले</string>
+    <string name="tab_growing_phase">बढ़ने का चरण</string>
+    <string name="tab_harvest_process">कटाई प्रक्रिया</string>
+    <string name="tab_selling_transport">बिक्री और परिवहन</string>
+    
+    <!-- Before Planting -->
+    <string name="legal_q1_title">क्या चंदन उगाना कानूनी है?</string>
+    <string name="legal_q1_content">हाँ। कर्नाटक वन संशोधन अधिनियम 2001 के बाद से कर्नाटक में निजी भूमि पर चंदन उगाना पूरी तरह से कानूनी है। आपको केवल पेड़ लगाने के लिए किसी अनुमति की आवश्यकता नहीं है। हालांकि कटाई और बिक्री के लिए अलग-अलग परमिट की आवश्यकता होती है।</string>
+    <string name="legal_q2_title">भूमि आवश्यकताएं</string>
+    <string name="legal_q2_content">आपकी भूमि स्पष्ट शीर्षक वाली निजी स्वामित्व वाली पट्टा भूमि होनी चाहिए। आपके पास तहसीलदार द्वारा जारी एक वैध भूमि स्वामित्व प्रमाण पत्र होना चाहिए। सरकारी या वन विभाग की भूमि पर खेती की अनुमति नहीं है।</string>
+    <string name="legal_q3_title">अपने वृक्षारोपण का पंजीकरण करें</string>
+    <string name="legal_q3_content">रोपण के बाद आपको अपने स्थानीय जिला वन अधिकारी या मंडल वन अधिकारी के पास प्रत्येक चंदन के पेड़ का पंजीकरण करना होगा। अपने भूमि स्वामित्व दस्तावेज और उनके जीपीएस स्थानों के साथ पेड़ों की सूची ले जाएं। पंजीकरण शुल्क जिले के अनुसार अलग-अलग होता है। पंजीकरण रसीद को सुरक्षित रखें - यह आपके कानूनी स्वामित्व का प्रमाण है।</string>
+    <string name="legal_q4_title">सरकारी सब्सिडी और ऋण</string>
+    <string name="legal_q4_content">कर्नाटक सिरीचंदन वन योजना और कृषि अरण्य योजना के माध्यम से मुफ्त या रियायती चंदन के पौधे प्रदान करता है। पात्रता के लिए अपने स्थानीय बागवानी विभाग कार्यालय से संपर्क करें। कृषि बैंक किसान क्रेडिट योजनाओं के तहत चंदन के वृक्षारोपण के लिए कम ब्याज वाले ऋण प्रदान करते हैं।</string>
+
+    <!-- Tree Detail & Tabs -->
+    <string name="tree_details">पेड़ का विवरण</string>
+    <string name="back">पीछे</string>
+    <string name="options">विकल्प</string>
+    <string name="edit_age">आयु बदलें</string>
+    <string name="delete_tree">पेड़ हटाएं</string>
+    <string name="overview_tab">अवलोकन</string>
+    <string name="security_log_tab">सुरक्षा लॉग</string>
+    <string name="save">सहेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">hटाएं</string>
+    <string name="edit_tree_age">पेड़ की आयु संपादित करें</string>
+    <string name="age_years_label">आयु (वर्ष)</string>
+    <string name="delete_tree_confirm">पेड़ हटाएं?</string>
+    <string name="delete_tree_msg">क्या आप वाकई इस पेड़ के रिकॉर्ड को हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।</string>
+    
+    <!-- Tree Stats & AI -->
+    <string name="current_age">वर्तमान आयु</string>
+    <string name="planted">रोपित</string>
+    <string name="view_on_map">मानचित्र पर देखें</string>
+    <string name="growth_journey">विकास यात्रा</string>
+    <string name="regenerate">पुनर्स्थापित करें</string>
+    <string name="ai_estimate_title">AI कटाई का अनुमान</string>
+    <string name="get_ai_estimate">AI अनुमान प्राप्त करें</string>
+    <string name="add_measurement">माप जोड़ें</string>
+    <string name="years_ago">साल पहले</string>
+    <string name="loading_ai">अनुमान की गणना हो रही है...</string>
+    <string name="ai_error">AI त्रुटि। बाद में प्रयास करें।</string>
+    <string name="sandalwood_specimen">चंदन का नमूना</string>
+    <string name="health_overview">स्वास्थ्य अवलोकन</string>
+    <string name="gps_location">GPS स्थान</string>
+    <string name="view_on_map_btn">मानचित्र पर देखें</string>
+    <string name="generating">बन रहा है...</string>
+
+    <!-- Security Tab -->
+    <string name="security_checklist_title">सुरक्षा चेकलिस्ट</string>
+    <string name="security_progress">सुरक्षा प्रगति</string>
+    <string name="panic_button">पैनिक बटन</string>
+    <string name="panic_button_desc">पड़ोसियों और अधिकारियों को सचेत करें</string>
+    <string name="emergency_contact">आपातकालीन संपर्क</string>
+    <string name="contact_number_label">संपर्क नंबर (WhatsApp/Call)</string>
+    <string name="save_contact">संपर्क सहेजें</string>
+    <string name="contact_saved_toast">आपातकालीन संपर्क सहेजा गया!</string>
+    <string name="panic_alert_title">सुरक्षा पैनिक अलर्ट!</string>
+    <string name="panic_alert_msg">यह आपके सहेजे गए संपर्क को एक आपातकालीन SMS/WhatsApp भेजेगा और एक स्थानीय अलर्ट बजाएगा। जारी रखें?</string>
+    <string name="send_alert">अलर्ट भेजें</string>
+    <string name="checklist_item_1">चारों ओर बाड़ लगाई गई है</string>
+    <string name="checklist_item_2">मोशन-सेंसर लाइटें लगाई गई हैं</string>
+    <string name="checklist_item_3">खेत का गेट बंद है</string>
+    <string name="checklist_item_4">पड़ोसी का आपातकालीन संपर्क सहेजा गया</string>
+    <string name="checklist_item_5">वन विभाग में पेड़ों का पंजीकरण कराया गया</string>
+    <string name="emergency_alert_title">आपातकालीन अलर्ट</string>
+    <string name="panic_button_label">संदिग्ध गतिविधि की रिपोर्ट करें</string>
+    <string name="gps_ready">GPS तैयार है</string>
+    <string name="acquiring_gps">GPS प्राप्त किया जा रहा है...</string>
+    <string name="gps_not_available_warning">⚠ GPS उपलब्ध नहीं है। सेटिंग्स → स्थान पर जाएं और सुनिश्चित करें कि "High Accuracy" मोड चालू है और गंधसिरी को स्थान की पहुंच प्राप्त है।</string>
+    <string name="retry">पुनः प्रयास करें</string>
+    <string name="open">खोलें</string>
+    <string name="emergency_alert_desc">WhatsApp के माध्यम से तुरंत अपने आपातकालीन संपर्क को सूचित करें और सुरक्षा अलर्ट दर्ज करें।</string>
+
+    <!-- Main Screens -->
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="add_tree">पेड़ जोड़ें</string>
+    <string name="no_trees_yet">अभी तक कोई पेड़ नहीं है? अपनी चंदन यात्रा शुरू करने के लिए + टैप करें।</string>
+    <string name="tree_id_label">पेड़ की ID</string>
+    <string name="last_updated">अंतिम अद्यतन</string>
+    <string name="view_details">विवरण देखें</string>
+    <string name="girth_label">घेरा</string>
+    <string name="age_label">आयु</string>
+    <string name="girth_age_format">घेरा: %1$.1f सेमी | आयु: %2$d वर्ष</string>
+
+    <!-- Add Tree -->
+    <string name="tree_registration">पेड़ का पंजीकरण</string>
+    <string name="fetching_gps">GPS प्राप्त किया जा रहा है...</string>
+    <string name="gps_failed_retry">GPS विफल (पुनः प्रयास करें)</string>
+    <string name="gps_coordinates">GPS निर्देशांक</string>
+    <string name="girth_cm_label">घेरा (सेमी)</string>
+    <string name="age_years_label_hint">आयु (वर्ष)</string>
+    <string name="save_tree">पेड़ सहेजें</string>
+    <string name="saving">सहेजा जा रहा है...</string>
+    <string name="location_not_available">स्थान उपलब्ध नहीं है। कृपया GPS चालू करें।</string>
+    <string name="retry_gps">GPS पुनः प्रयास करें</string>
+    <string name="estimated_age_label">अनुमानित आयु (वर्षों में)</string>
+    <string name="additional_notes_label">अतिरिक्त नोट्स</string>
+    <string name="save_tree_record">पेड़ का रिकॉर्ड सहेजें</string>
+    <string name="profile_title">प्रोफ़ाइल</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="farmer_details">किसान विवरण</string>
+    <string name="village_label">गांव</string>
+    <string name="district_label">जिला</string>
+    <string name="state_label">राज्य</string>
+    <string name="phone_label">फोन</string>
+    <string name="farm_size_label">खेत का आकार</string>
+    <string name="app_stats">ऐप आँकड़े</string>
+    <string name="total_trees_label">कुल पेड़</string>
+    <string name="days_active_label">सक्रिय दिन</string>
+    <string name="security_settings">सुरक्षा सेटिंग्स</string>
+    <string name="change_pin">PIN बदलें</string>
+    <string name="language_settings">भाषा सेटिंग्स</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="save_changes">परिवर्तन सहेजें</string>
+    <string name="profile_updated">प्रोफ़ाइल अपडेट की गई!</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="personal_details">व्यक्तिगत विवरण</string>
+    <string name="name_label">नाम</string>
+    <string name="farm_size_acres">खेत का आकार (एकड़)</string>
+    <string name="not_set">सेट नहीं है</string>
+    <string name="enter_current_pin">वर्तमान PIN दर्ज करें</string>
+    <string name="enter_new_pin">नया PIN दर्ज करें</string>
+    <string name="confirm_new_pin">नया PIN पुष्ट करें</string>
+    <string name="incorrect_pin">गलत PIN</string>
+    <string name="pins_do_not_match">PIN मेल नहीं खाते</string>
+    <string name="acres_format">%1$s एकड़</string>
+    <string name="registration_success">पंजीकरण सफल!</string>
+    <string name="tree_recorded_msg">आपका चंदन का पेड़ अब रिकॉर्ड हो गया है।</string>
+    <string name="tree_id_caps">पेड़ की ID</string>
+    <string name="return_to_dashboard">डैशबोर्ड पर वापस जाएं</string>
+</resources>
