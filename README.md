@@ -51,7 +51,8 @@ GandhaSiri is a modern, high-security Android application designed for the compr
    ```bash
    git clone https://github.com/Nandishreddy2903/GandhaSiri.git
    ```
-2. Create a `local.properties` file in the root directory and add your API keys:
+2. **🔐 Configure Secrets:**
+   Create a `local.properties` file in the root directory. This file is excluded from version control for security. Add your personal API keys as follows:
    ```properties
    GEMINI_API_KEY=your_gemini_api_key
    MAPS_API_KEY=your_google_maps_api_key

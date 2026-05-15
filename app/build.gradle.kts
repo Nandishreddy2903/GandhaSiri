@@ -22,13 +22,18 @@ android {
             useSupportLibrary = true
         }
 
+        // security: remove hardcoded api keys and implement gradle injection
         val properties = Properties()
         val localPropertiesFile = project.rootProject.file("local.properties")
         if (localPropertiesFile.exists()) {
             localPropertiesFile.inputStream().use { properties.load(it) }
         }
+        
         val geminiApiKey = properties.getProperty("GEMINI_API_KEY", "")
+        val mapsApiKey = properties.getProperty("MAPS_API_KEY", "")
+        
         buildConfigField("String", "GEMINI_API_KEY", "\"$geminiApiKey\"")
+        manifestPlaceholders["MAPS_API_KEY"] = mapsApiKey
     }
 
     buildTypes {
