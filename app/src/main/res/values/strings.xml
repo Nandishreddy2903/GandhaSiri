@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GandhaSiri</string>
+    <string name="choose_language">Choose Your Language</string>
+    <string name="continue_btn">CONTINUE</string>
+    <string name="onboarding_title">Welcome to GandhaSiri</string>
+    <string name="register_title">Farmer Registration</string>
+    <string name="pin_login_title">Enter Security PIN</string>
+    <string name="legal_guide_title">Karnataka Sandalwood Legal Guide</string>
+    <string name="legal_disclaimer_title">Legal Disclaimer</string>
+    <string name="legal_disclaimer_text">This information is based on Karnataka Forest Act 1963, Karnataka Forest Amendment Act 2001, and Karnataka Forest Amendment Rules 2022. Laws may change. Always verify current rules with your local District Forest Officer before taking any action.</string>
+    
+    <!-- Legal Tabs -->
+    <string name="tab_before_planting">Before Planting</string>
+    <string name="tab_growing_phase">Growing Phase</string>
+    <string name="tab_harvest_process">Harvest Process</string>
+    <string name="tab_selling_transport">Selling &amp; Transport</string>
+    
+    <!-- Before Planting -->
+    <string name="legal_q1_title">Is It Legal to Grow Sandalwood?</string>
+    <string name="legal_q1_content">Yes. Growing sandalwood on private land is fully legal in Karnataka since the Karnataka Forest Amendment Act 2001. You do not need any permission just to plant trees. However harvesting and selling require separate permits.</string>
+    <string name="legal_q2_title">Land Requirements</string>
+    <string name="legal_q2_content">Your land must be privately owned patta land with a clear title. You must have a valid land ownership certificate issued by the Tahsildar. Farming is not permitted on government or forest department land.</string>
+    <string name="legal_q3_title">Register Your Plantation</string>
+    <string name="legal_q3_content">After planting you must register each sandalwood tree with your local District Forest Officer or Divisional Forest Officer. Carry your land ownership documents and a list of trees with their GPS locations. Registration fee varies by district. Keep the registration receipt safely — it is your proof of legal ownership.</string>
+    <string name="legal_q4_title">Subsidies and Loans</string>
+    <string name="legal_q4_content">Karnataka offers free or subsidized sandalwood saplings through the Sirichandana Vana scheme and Krishi Aranya Yojana. Contact your local horticulture department office for eligibility. Agricultural banks offer low-interest loans for sandalwood plantation under Kisan Credit schemes.</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_slide1_title">Register Your Trees</string>
+    <string name="onboarding_slide1_desc">Tag every sandalwood tree on your land with a photo and GPS location.</string>
+    <string name="onboarding_slide2_title">Track Growth Over Years</string>
+    <string name="onboarding_slide2_desc">Record girth measurements and watch your investment grow.</string>
+    <string name="onboarding_slide3_title">Get AI Harvest Insights</string>
+    <string name="onboarding_slide3_desc">Know exactly when your trees are ready for legal harvest.</string>
+    <string name="onboarding_slide4_title">Stay Secure</string>
+    <string name="onboarding_slide4_desc">Alert neighbors instantly if suspicious activity is detected.</string>
+
+    <!-- Tree Detail & Tabs -->
+    <string name="tree_details">Tree Details</string>
+    <string name="back">Back</string>
+    <string name="options">Options</string>
+    <string name="edit_age">Edit Age</string>
+    <string name="delete_tree">Delete Tree</string>
+    <string name="overview_tab">Overview</string>
+    <string name="security_log_tab">Security Log</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="edit_tree_age">Edit Tree Age</string>
+    <string name="age_years_label">Age (Years)</string>
+    <string name="delete_tree_confirm">Delete Tree?</string>
+    <string name="delete_tree_msg">Are you sure you want to delete this tree record? This action cannot be undone.</string>
+    
+    <!-- Tree Stats & AI -->
+    <string name="current_age">Current Age</string>
+    <string name="planted">Planted</string>
+    <string name="view_on_map">View on Map</string>
+    <string name="growth_journey">Growth Journey</string>
+    <string name="regenerate">Regenerate</string>
+    <string name="ai_estimate_title">AI Harvest Estimate</string>
+    <string name="get_ai_estimate">Get AI Estimate</string>
+    <string name="add_measurement">Add Measurement</string>
+    <string name="years_ago">years ago</string>
+    <string name="loading_ai">Calculating estimate...</string>
+    <string name="ai_error">AI Error. Try again later.</string>
+    <string name="sandalwood_specimen">Sandalwood Specimen</string>
+    <string name="health_overview">Health Overview</string>
+    <string name="gps_location">GPS Location</string>
+    <string name="view_on_map_btn">VIEW ON MAP</string>
+    <string name="generating">Generating...</string>
+
+    <!-- Security Tab -->
+    <string name="security_checklist_title">Security Checklist</string>
+    <string name="security_progress">Security Progress</string>
+    <string name="panic_button">PANIC BUTTON</string>
+    <string name="panic_button_desc">Alert Neighbors &amp; Authorities</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="contact_number_label">Contact Number (WhatsApp/Call)</string>
+    <string name="save_contact">SAVE CONTACT</string>
+    <string name="contact_saved_toast">Emergency contact saved!</string>
+    <string name="panic_alert_title">Security Panic Alert!</string>
+    <string name="panic_alert_msg">This will send an emergency SMS/WhatsApp to your saved contact and sound a local alert. Proceed?</string>
+    <string name="send_alert">SEND ALERT</string>
+    <string name="checklist_item_1">Perimeter fencing installed</string>
+    <string name="checklist_item_2">Motion-sensor lights installed</string>
+    <string name="checklist_item_3">Farm gate is locked</string>
+    <string name="checklist_item_4">Neighbor emergency contact saved</string>
+    <string name="checklist_item_5">Trees registered with Forest Department</string>
+    <string name="emergency_alert_title">Emergency Alert</string>
+    <string name="panic_button_label">REPORT SUSPICIOUS ACTIVITY</string>
+    <string name="gps_ready">GPS Ready</string>
+    <string name="acquiring_gps">Acquiring GPS...</string>
+    <string name="gps_not_available_warning">⚠ GPS not available. Go to Settings → Location and ensure \"High Accuracy\" mode is on and GandhaSiri has location access.</string>
+    <string name="retry">Retry</string>
+    <string name="open">Open</string>
+    <string name="emergency_alert_desc">Immediately notify your emergency contact on WhatsApp and log a security alert.</string>
+    <string name="profile">Profile</string>
+    <string name="add_tree">Add Tree</string>
+    <string name="no_trees_yet">No trees yet? Tap + to begin your sandalwood journey.</string>
+    <string name="tree_id_label">Tree ID</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="view_details">View Details</string>
+    <string name="girth_label">Girth</string>
+    <string name="age_label">Age</string>
+    <string name="girth_age_format">Girth: %1$.1f cm | Age: %2$d yrs</string>
+    <string name="tree_registration">Tree Registration</string>
+    <string name="fetching_gps">Fetching GPS...</string>
+    <string name="gps_failed_retry">GPS Failed (Retry)</string>
+    <string name="gps_coordinates">GPS Coordinates</string>
+    <string name="girth_cm_label">Girth (cm)</string>
+    <string name="age_years_label_hint">Age (Years)</string>
+    <string name="save_tree">SAVE TREE</string>
+    <string name="saving">SAVING...</string>
+    <string name="location_not_available">Location not available. Please enable GPS.</string>
+    <string name="retry_gps">Retry GPS</string>
+    <string name="estimated_age_label">Estimated Age (years)</string>
+    <string name="additional_notes_label">Additional Notes</string>
+    <string name="save_tree_record">SAVE TREE RECORD</string>
+    <string name="profile_title">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="farmer_details">Farmer Details</string>
+    <string name="village_label">Village</string>
+    <string name="district_label">District</string>
+    <string name="state_label">State</string>
+    <string name="phone_label">Phone</string>
+    <string name="farm_size_label">Farm Size (Acres)</string>
+    <string name="app_stats">App Stats</string>
+    <string name="total_trees_label">Total Trees</string>
+    <string name="days_active_label">Days Active</string>
+    <string name="security_settings">Security Settings</string>
+    <string name="change_pin">Change PIN</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="change_language">Change Language</string>
+    <string name="save_changes">SAVE CHANGES</string>
+    <string name="profile_updated">Profile updated!</string>
+    <string name="select_language">Select Language</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="name_label">Name</string>
+    <string name="farm_size_acres">Farm Size (Acres)</string>
+    <string name="not_set">Not set</string>
+    <string name="enter_current_pin">Enter Current PIN</string>
+    <string name="enter_new_pin">Enter New PIN</string>
+    <string name="confirm_new_pin">Confirm New PIN</string>
+    <string name="incorrect_pin">Incorrect PIN</string>
+    <string name="pins_do_not_match">PINs do not match</string>
+    <string name="acres_format">%1$s ac</string>
+    <string name="registration_success">Registration Successful!</string>
+    <string name="tree_recorded_msg">Your sandalwood tree is now recorded.</string>
+    <string name="tree_id_caps">TREE ID</string>
+    <string name="return_to_dashboard">RETURN TO DASHBOARD</string>
+</resources>
